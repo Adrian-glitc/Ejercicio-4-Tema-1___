@@ -1,5 +1,6 @@
 
-
+from Videojuego import Mision
+from Videojuego import ColaMisiones
 
 # Ejemplo de uso
 if __name__ == "__main__":
